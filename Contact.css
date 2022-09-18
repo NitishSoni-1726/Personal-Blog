@@ -47,7 +47,7 @@
 }
 
 .u-section-1 .u-image-1 {
-  zoom: 30%;
+  object-fit: 30%;
   width: 380px;
   height: 380px;
   object-position: 10% 20%;
