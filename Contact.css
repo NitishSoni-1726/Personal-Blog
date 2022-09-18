@@ -141,3 +141,6 @@
     margin-top: -380px;
   }
 }
+.u-social-url:hover{
+  border: 2px solid black;
+}
